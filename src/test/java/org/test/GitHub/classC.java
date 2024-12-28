@@ -18,5 +18,15 @@ public class classC {
 
 	}
 	
+	private void SM() {
+		System.out.println();
+
+	}
+	
+	private void PM() {
+		System.out.println();
+
+	}
+	
 	
 }
