@@ -17,6 +17,22 @@ private void method3() {
 
 }	
 
+private void method4() {
+	
+System.out.println("TN");
+}	
+
+private void method5() {
+	System.out.println("KL");
+
+}	
+
+private void method6() {
+	System.out.println("KK");
+
+}	
+
+
 	
 	
 }
