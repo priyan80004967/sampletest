@@ -18,12 +18,12 @@ public class classC {
 
 	}
 	
-	private void SM() {
+	private void SM2222() {
 		System.out.println();
 
 	}
 	
-	private void PM() {
+	private void PM222() {
 		System.out.println();
 
 	}
